@@ -24,7 +24,7 @@ Hi, I’m Rafael, a curious techie who loves diving into code and new challenges
   React Native audio-first language-learning app using Supabase & OpenAI API  
 
 ## Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=REHVan&show_icons=true&theme=default&hide_border=true) ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REHVan&layout=compact&hide_border=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REHVan&layout=compact&hide_border=true)
 
 ## Contact  
 [LinkedIn](https://www.linkedin.com/in/rafael-vantuyl) • [Portfolio](https://www.rafaelhernandezvantuyl.com)  
