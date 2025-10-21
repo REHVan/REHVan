@@ -7,15 +7,16 @@ Hi, I’m Rafael, a curious techie who loves diving into code and new challenges
 
 ## Internships  
 - **Chime Financial** (May 2025 – Present)  
-  • Built React & Rails tools for 100+ agents to review customer data  
-  • Wrote 20+ Jest & RSpec tests for reliability  
-  • Deployed dashboards that handle 300+ weekly interactions  
+ • Coded features to display customer data using React and Ruby on Rails, improving usability for 4,000+ agents
+ • Deployed 5 pages displaying customer enrollment data to support agents, streamlining 6,000+ weekly interactions
+ • Developed 30+ unit and integration tests in Jest and RSpec to ensure reliability of newly built pages
+ • Collaborated cross-functionally with 5+ support agents to refine design from feedback, improving usability
 
 - **MTW Solutions** (June 2022 – March 2025)  
-  • Developed C# batch jobs and REST integrations that helped 200+ schools claim $10 M  
-  • Automated alerts pipeline, reducing runtime by 99%  
-  • Owned full-stack features for grant-management platform  
-
+ • Developed full-stack federal grant app (HTML, JS, C#), enabling 200+ schools to claim $10M in extra funding
+ • Automated notifications with a daily batch job using C#, reducing time spent sending alerts by 99%
+ • Integrated Sam.gov REST API for validation, cutting manual checks by 90% and boosting compliance
+ • Resolved 3+ production bugs monthly, reducing downtime and resolution time by 15%
 ## Projects  
 - [UniSponsor](https://github.com/REHVan/UniSponsor)  
   Automated outreach tool for student orgs with React, Node.js, Express & PostgreSQL  
